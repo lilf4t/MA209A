@@ -1,2 +1,1 @@
-# MA209A
-Analys A och linjär algebra
+# Analys A och linjär algebra - MA209A
